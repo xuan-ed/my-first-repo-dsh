@@ -1,0 +1,2 @@
+# 仅打包时需要；运行时只用 Python 标准库（tkinter + ctypes）
+pyinstaller>=6.0
