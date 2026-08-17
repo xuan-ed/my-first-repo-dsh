@@ -1,0 +1,12 @@
+# 运行日志（可能含个人文件路径等隐私信息，切勿提交）
+运行日志.txt
+错误日志.txt
+*.log
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# PyInstaller 构建中间产物
+build/
+*.spec
